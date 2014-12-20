@@ -3,7 +3,7 @@
   "description": "This module adds an option for AJAX requests to only fetch, save, destroy, etc. one at a time aborting the previously pending requests",
   "version": "0.0.1",
   "dependencies": {
-    "ampersand-aync": "^1.0.0",
+    "ampersand-sync": "^1.0.0",
     "underscore": "1.6.0"
   },
   "devDependencies": {
